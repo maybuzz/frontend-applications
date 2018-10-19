@@ -1,5 +1,9 @@
-# Frontend-applications
 ## Inhoud
+1. Proces
+2. Concept en design
+3. Week 1
+4. Week 2 
+5. Resources
 
 ## Proces
 In de eerste week hebben we `Arjan de Jager` ontmoet. Arjan werkt bij `Garage 2020`, een organisatie van de gemeente Amsterdam die samenwerkt met jeugdhulp. Arjan heeft een applicatie gebouwd die medewerkers van de jeugdhulp moet ondersteunen in het maken van risico analyses. In de applicatie heeft Arjan zich vooral gefocust op uit huis plaatsing van jongeren. Medewerkers van de jeugdhulp hebben verschillende hulpmiddelen bestaande uit vragenlijsten en lijsten met risico factoren waarmee zij een risico taxatie kunnen doen en in kunnen schatten wat de problemen binnen een gezin zijn. Arjan wil met zijn applicatie deze vragenlijsten en factoren digitaal maken en een tool ontwikkelen waarmee werknemers een berekening kunnen maken en een risico indicatie kunnen krijgen. Hier kunnen wij hem goed bij helpen. Bonus is dat Arjan 3 concepten uitkiest om mee te nemen naar de `Dutch Design Week`.
@@ -51,7 +55,9 @@ Mijn bevindingen uit de analyse;
 5. Samen met ouders en/of jongeren, zo `**samen**` mogelijk
 6. Zo `**supportive**` mogelijk
 
-De huidige applicatie is [x] safe en [x] snel maar niet [ ] samen of [ ] supportive
+De huidige applicatie is safe en snel maar niet samen of supportive.
+
+Waar we wel rekening mee moeten houden is dat er vaak meerdere instanties met een gezin in aanraking zijn. Misschien kunnen we iets maken dat voor meerdere instanties bruikbaar is. Ook blijft het besluit van uithuisplaatsing bij de hulpverlener, niet bij de computer.
 
 #### Vrijdag
   - Design in Sketch gemaakt
@@ -66,16 +72,48 @@ In het weekend heb ik minder kunnen doen dan ik van plan was. Wel heb ik opnieuw
 
 ### Week 2
 #### Maandag
+  - Hulpverleners presentatie
   - Tutorial van Mitch en Daniel 2 gekregen.
   - Maximiliaan is een held
   - DesignCourse heeft mn leven gered met het opzetten van mijn vue project.
+  
+Vandaag hebben we presentaties gehad van verschillende hulpverleners. We hebben hier vooral kennis opgedaan over de jeugdhulp en hoe de instanties en organisaties werken. Ook hebben we vragen kunnen stellen.
   
 Vandaag heb ik (opnieuw) verschillende tutorials gekeken. Verschil met de andere tutorials is wel dat deze me echt verder hebben geholpen. Vooral omdat zij vanaf het begin beginnen. Van installatie, tot importeren tot routing. Hier kan ik eindelijk op doorwerken voor mijn eigen project. 
 
 Ook ben ik vandaag aangeschoven bij 'de Vue tafel'. Deze bestaat uit Mitch, Nathan en Daniel 2. In principe hebben we allemaal ongeveer even veel moeite met alles. Gelukkig zijn onze mede studenten zoals Tim, Dennis en Daniel 1 bereid om ons op weg te helpen. Toch helpt het wel om je bij 'lotgenoten' aan te sluiten.
 
 #### Dinsdag
+  - Minor WebDev gesprek
+  - Framework verder opzetten
+  - CSS toepassen
 
+Aangenomen voor de Minor WebDev :)
+
+Vandaag was niet heel interessant, vooral lastig. Omdat ik het zelf lastig vind om echt code te schrijven, ben ik nogal afhankelijk van andere mensen. Ik heb veel van Mitch overgenomen, die veel hulp van Tim heeft gehad. Dit is terug te zien in mijn code.
+ 
+#### Woensdag
+  - Gastspreker Nienke Dekker, NOS 'Waarom een framework?'
+  - Concept verder uitwerken
+  - Data in json
+
+Het praatje van Nienke vond ik erg fijn. Ze legde het nut van een framework goed uit en heeft ons verschillende leuke projecten laten zien waar ze aan heeft gewerkt voor de NOS.
+
+Verder ben ik vandaag wel lekker bezig geweest met mijn data. In json heb ik het de bestaande data zo ingericht dat ik er goed mee kan werken. Het is de bedoeling dat het formulier dynamisch gerenderd wordt. Ik heb dit gedaan door eerst alle vragen op categorie te verdelen. Vervolgens lees ik de categorie uit in mijn html. Hier koppel ik vervolgens de vragen aan. Elke vraag heeft antwoorden die een gewicht mee krijgen, waardoor er een berekening gedaan kan worden. Dit alles heb ik in mijn `data.json` bestand verwerkt.
+
+#### Donderdag
+  - Data ophalen en pushen
+  - Berekening maken
+  
+Vandaag heb ik de laatste dingen aan mijn project gedaan. Zo kan ik nu mijn formulier dynamisch inladen, vragen beantwoorden en het gewicht meegeven. Vervolgens heb ik met behulp van de formule van Arjan een berekening kunnen doen.
+
+Bij het schrijven van deze functies heb ik hulp gehad van Tim, Dennis, Jim en Gijs. Mijn code zal voornamelijk overeenkomen met die van Mitch Goudkuil, Daniel van der Schuur en Nathan Keyzer. Ik heb in de middag met behulp van Gijs, Tim, Dennis en Jim functies geschreven en deze vervolgens met mijn vue groepje gedeeld. Ik merkte dat ik deze functies uit kon leggen en hen hiermee verder kon helpen. Dit voelde ook wel een keer goed voor de verandering :)
+
+### Vrijdag
+  - PRESENTATIES!
+  - Readme updaten
+  
+Vandaag gaan we het project afronden. Ik ben benieuwd naar iedereens creaties en vooral naar wat Arjan en Eva vinden van onze oplossingen.
 
 ## Project setup en installation
 ```
@@ -105,4 +143,5 @@ npm run lint
 ## Resources
 https://vuejs.org/v2/guide/    
 https://www.udemy.com/mobile/ipad/    
-https://www.youtube.com/watch?v=78tNYZUS-ps    
+https://www.youtube.com/watch?v=78tNYZUS-ps   
+VUE.js documentatie en tutorials
