@@ -10,6 +10,13 @@ In de eerste week hebben we `Arjan de Jager` ontmoet. Arjan werkt bij `Garage 20
 
 Onze werkplek voor deze 2 weken is het `Google kantoor op het Bijlmerplein`. Dit kantoor is eigendom van de gemeente Amsterdam.
 
+## Concept en design
+In mijn concept richt ik mij voornamelijk op het verbeteren van de huidige applicatie en de UX. Ook wilde ik graag meerdere functionaliteiten toevoegen.
+
+Wat ik wilde doen maar niet aan toe ben gekomen:
+1. Database koppelen waardoor hulpverleners een mobiel dossier aan kunnen maken. In dit dossier kunnen zij ingevulde gegevens terug zien, aanpassen en updaten. Het leek mij een goed idee om voor elk gesprek dat zij met een client voeren een nieuwe analyse te doen. Zij zouden dan in kunnen loggen en naar het client dossier kunnen gaan en hier een nieuw gesprek aan toe kunnen voegen. Ideaal gezien zouden de aanpassingen of veranderingen in de analyses naar voren komen. Zo kunnen hulpverleners het proces in kaart kunnen brengen.
+2. Ik wilde hulpverleners de mogelijkheid geven om notities toe te voegen. Sommige opmerkingen kan je als hulpverlener niet verwerken in de gegeven vragen, maar willen zij alsnog opslaan. Door documenten up te loaden naar de database of simpelweg opmerkingen toe te voegen aan de vragen kunnen zij deze dingen kwijt in de applicatie.
+
 ### Week 1
 #### Maandag
   - Introductie Arjan, jeugdhulp en Garage 2020
@@ -115,30 +122,22 @@ Bij het schrijven van deze functies heb ik hulp gehad van Tim, Dennis, Jim en Gi
   
 Vandaag gaan we het project afronden. Ik ben benieuwd naar iedereens creaties en vooral naar wat Arjan en Eva vinden van onze oplossingen.
 
-## Project setup en installation
+## Project setup en installatie
 ```
 npm install
 ```
+Om project te installeren
 
-### Compile and hot-reloads for development
 ```
-npm run serve
+npm install -g @vue/cli
 ```
+Om VUE CLI te installeren. Dit is de clientside installatie van Vue.
 
-### Compiles and minifies for production
 ```
-npm run build
+npm run dev
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Om modules te builden en server te starten.
+In dit geval draait de code op ```localhost:8080```
 
 ## Resources
 https://vuejs.org/v2/guide/    
