@@ -122,23 +122,6 @@ Bij het schrijven van deze functies heb ik hulp gehad van Tim, Dennis, Jim en Gi
   
 Vandaag gaan we het project afronden. Ik ben benieuwd naar iedereens creaties en vooral naar wat Arjan en Eva vinden van onze oplossingen.
 
-## Project setup en installatie
-```
-npm install
-```
-Om project te installeren
-
-```
-npm install -g @vue/cli
-```
-Om VUE CLI te installeren. Dit is de clientside installatie van Vue.
-
-```
-npm run dev
-```
-Om modules te builden en server te starten.
-In dit geval draait de code op ```localhost:8080```
-
 ## Resources
 https://vuejs.org/v2/guide/    
 https://www.udemy.com/mobile/ipad/    
