@@ -6,6 +6,11 @@
 
 ## Installatie
 ```
+git clone https://github.com/maybuzz/frontend-applications
+```
+Clone dit project
+
+```
 npm install
 ```
 Om project te installeren
