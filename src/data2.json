@@ -1,0 +1,338 @@
+[
+  {
+    "Vraag": "",
+    "Categorie": "Intercept",
+    "Name": "Intercept",
+    "Gewicht": "-7,36863"
+  },
+  {
+    "Vraag": "Geslacht",
+    "Categorie": "Algemeen",
+    "Name": "Man",
+    "Gewicht": "-0,12611"
+  },
+  {
+    "Vraag": "Herkomst ouders:",
+    "Categorie": "Algemeen",
+    "Name": "Beide ouders niet Nederlands",
+    "Gewicht": "0,16972"
+  },
+  {
+    "Vraag": "Herkomst ouders: ",
+    "Categorie": "Algemeen",
+    "Name": "Een van de ouders Nederlands en de andere niet Nederlands",
+    "Gewicht": "-0,08943"
+  },
+  {
+    "Vraag": "Type huishouden: Eenouderhuishouden",
+    "Categorie": "Huisvesting",
+    "Name": "Eenouderhuishouden",
+    "Gewicht": "0,49608"
+  },
+  {
+    "Vraag": "Type huishouden: Eenpersoonshuishouden",
+    "Categorie": "Huisvesting",
+    "Name": "Eenpersoonshuishouden",
+    "Gewicht": "1,71859"
+  },
+  {
+    "Vraag": "Type huishouden: Gehuwd paar zonder kinderen",
+    "Categorie": "Huisvesting",
+    "Name": "Gehuwd paar zonder kinderen",
+    "Gewicht": "1,06108"
+  },
+  {
+    "Vraag": "Type huishouden: Institutioneel huishouden",
+    "Categorie": "Huisvesting",
+    "Name": "Institutioneel huishouden",
+    "Gewicht": "1,92321"
+  },
+  {
+    "Vraag": "Type huishouden: Niet-gehuwd paar met kinderen",
+    "Categorie": "Huisvesting",
+    "Name": "Niet-gehuwd paar met kinderen",
+    "Gewicht": "0,32694"
+  },
+  {
+    "Vraag": "Type huishouden:Niet-gehuwd paar zonder kinderen",
+    "Categorie": "Huisvesting",
+    "Name": "Niet-gehuwd paar zonder kinderen",
+    "Gewicht": "-14,15530"
+  },
+  {
+    "Vraag": "Type huishouden: Onbekend",
+    "Categorie": "Huisvesting",
+    "Name": "Onbekend huishouden",
+    "Gewicht": "-13,81002"
+  },
+  {
+    "Vraag": "Type huishouden: Overig huishouden",
+    "Categorie": "Huisvesting",
+    "Name": "Overig huishouden",
+    "Gewicht": "0,91365"
+  },
+  {
+    "Vraag": "Scheiding",
+    "Categorie": "Huiselijke relaties",
+    "Name": "Ja",
+    "Gewicht": "0,27683"
+  },
+  {
+    "Vraag": "VSV Niet van toepassing",
+    "Categorie": "Onderwijs",
+    "Name": "Niet van toepassing",
+    "Gewicht": "0,38736"
+  },
+  {
+    "Vraag": "VSV Geen data over VSV bekend",
+    "Categorie": "Onderwijs",
+    "Name": "Onbekend",
+    "Gewicht": "0,80564"
+  },
+  {
+    "Vraag": "VSV Geen vsv: uit onderwijs met startkwalificatie",
+    "Categorie": "Werk & opleiding",
+    "Name": "Uit onderwijs met startkwalificatie",
+    "Gewicht": "-13,64193"
+  },
+  {
+    "Vraag": "VSV Voortijdig schoolverlater (vsv)",
+    "Categorie": "Onderwijs",
+    "Name": "Voortijdig schoolverlaten",
+    "Gewicht": "0,34684"
+  },
+  {
+    "Vraag": "SPECIAAL_Onderwijs Niet-regulier onderwijs",
+    "Categorie": "Werk & opleiding",
+    "Name": "Niet-regulier onderwijs",
+    "Gewicht": "-0,33031"
+  },
+  {
+    "Vraag": "SPECIAAL_Onderwijs Geen onderwijsdata bekend",
+    "Categorie": "Werk & opleiding",
+    "Name": "Onderwijs onbekend",
+    "Gewicht": "-0,76957"
+  },
+  {
+    "Vraag": "Soort woning Huurwoning, met huurtoeslag",
+    "Categorie": "Huisvesting",
+    "Name": "Huurwoning met huurtoeslag",
+    "Gewicht": "0,38401"
+  },
+  {
+    "Vraag": "Soort woning Huurwoning, zonder huurtoeslag",
+    "Categorie": "Huisvesting",
+    "Name": "Huurwoning zonder huurtoeslag",
+    "Gewicht": "0,40420"
+  },
+  {
+    "Vraag": "Soort woning onbekend",
+    "Categorie": "Huisvesting",
+    "Name": "Onbekend",
+    "Gewicht": "2,40126"
+  },
+  {
+    "Vraag": "Werk vader Geen werk",
+    "Categorie": "Maatschappelijke participatie",
+    "Name": "Geen werk en niet actief",
+    "Gewicht": "0,33772"
+  },
+  {
+    "Vraag": "Werk vader onbekend",
+    "Categorie": "Maatschappelijke participatie",
+    "Name": "Onbekend",
+    "Gewicht": "0,23486"
+  },
+  {
+    "Vraag": "Werk moeder Geen werk",
+    "Categorie": "Maatschappelijke participatie",
+    "Name": "Geen werk en niet actief",
+    "Gewicht": "0,36958"
+  },
+  {
+    "Vraag": "Werk moeder onbekend",
+    "Categorie": "Maatschappelijke participatie",
+    "Name": "Onbekend",
+    "Gewicht": "-0,95012"
+  },
+  {
+    "Vraag": "Slachtoffer Ja",
+    "Categorie": "Geestelijke gezondheid",
+    "Name": "Ja",
+    "Gewicht": "0,23639"
+  },
+  {
+    "Vraag": "Jeuggdhulp zonder verblijf vooraf",
+    "Categorie": "Algemeen",
+    "Name": "Jeugdhulp zonder verblijf gehad",
+    "Gewicht": "1,52774"
+  },
+  {
+    "Vraag": "Leeftijd moederbij _geboorte_cat 20 tot 25 jaar",
+    "Categorie": "Algemeen",
+    "Name": "20 tot 25 jaar",
+    "Gewicht": "0,10852"
+  },
+  {
+    "Vraag": "Leeftijd moederbij _geboorte_cat 25 tot 30 jaar",
+    "Categorie": "Algemeen",
+    "Name": "25 tot 30 jaar",
+    "Gewicht": "-0,08841"
+  },
+  {
+    "Vraag": "Leeftijd moederbij _geboorte_cat 35 tot 40 jaar",
+    "Categorie": "Algemeen",
+    "Name": "35 tot 40 jaar",
+    "Gewicht": "0,23988"
+  },
+  {
+    "Vraag": "Leeftijd moederbij _geboorte_cat ouder dan 40 jaar",
+    "Categorie": "Algemeen",
+    "Name": "40 jaar en ouder",
+    "Gewicht": "-0,11153"
+  },
+  {
+    "Vraag": "Leeftijd moederbij _geboorte_cat 0 tot 20 jaar",
+    "Categorie": "Algemeen",
+    "Name": "Jonger dan 20 jaar",
+    "Gewicht": "0,45150"
+  },
+  {
+    "Vraag": "Leeftijd vaderbij _geboorte_cat 25 tot 30 jaar",
+    "Categorie": "Algemeen",
+    "Name": "25 tot 30 jaar",
+    "Gewicht": "0,03107"
+  },
+  {
+    "Vraag": "Leeftijd vaderbij _geboorte_cat 35 tot 40 jaar",
+    "Categorie": "Algemeen",
+    "Name": "35 tot 40 jaar",
+    "Gewicht": "-0,21624"
+  },
+  {
+    "Vraag": "Leeftijd vaderbij _geboorte_cat ouder dan 40 jaar",
+    "Categorie": "Algemeen",
+    "Name": "40 jaar en ouder",
+    "Gewicht": "-0,32645"
+  },
+  {
+    "Vraag": "Leeftijd vaderbij _geboorte_cat 0 tot 25 jaar",
+    "Categorie": "Algemeen",
+    "Name": "Jonger dan 25 jaar",
+    "Gewicht": "-0,00587"
+  },
+  {
+    "Vraag": "Verdenking misdrijf Vader of moeder Ja",
+    "Categorie": "Justitie",
+    "Name": "Ja",
+    "Gewicht": "0,50027"
+  },
+  {
+    "Vraag": "Verdenking misdrijf KIND Ja",
+    "Categorie": "Justitie",
+    "Name": "Ja",
+    "Gewicht": "0,94738"
+  },
+  {
+    "Vraag": "HALTDELICT Ja",
+    "Categorie": "Halt delict",
+    "Name": "Ja",
+    "Gewicht": "0,36448"
+  },
+  {
+    "Vraag": "Onderwijsverandering afschalen",
+    "Categorie": "Werk & opleiding",
+    "Name": "Afschalen",
+    "Gewicht": "0,58732"
+  },
+  {
+    "Vraag": "Onderwijsverandering onbekend",
+    "Categorie": "Werk & opleiding",
+    "Name": "Onbekend",
+    "Gewicht": "-1,11682"
+  },
+  {
+    "Vraag": "Leeftijdsverschil ouders meer dan 5 jaar",
+    "Categorie": "Algemeen",
+    "Name": "Meer dan 5 jaar",
+    "Gewicht": "0,28581"
+  },
+  {
+    "Vraag": "Actueel onderwijs niveau Basisonderwijs",
+    "Categorie": "Werk & opleiding",
+    "Name": "Basisonderwijs",
+    "Gewicht": "0,25232"
+  },
+  {
+    "Vraag": "Actueel onderwijs niveau Geen onderwijsdata bekend",
+    "Categorie": "Werk & opleiding",
+    "Name": "Onderwijs onbekend",
+    "Gewicht": "0,00000"
+  },
+  {
+    "Vraag": "Actueel onderwijs niveau Vmbo-b/k, mbo 1 en mbo 2",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vmbo b/k, mbo 1 en mbo 2",
+    "Gewicht": "0,87842"
+  },
+  {
+    "Vraag": "Actueel onderwijs niveau Vmbo-g/t, mbo 3 en mbo 4",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vmbo g/t, mbo 3 en mbo 4",
+    "Gewicht": "0,56882"
+  },
+  {
+    "Vraag": "Actueel onderwijs niveau Vwo en Wo-bachelor",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vwo en Wo bachelor",
+    "Gewicht": "-0,83566"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma vader Geen onderwijsdata bekend",
+    "Categorie": "Werk & opleiding",
+    "Name": "Onderwijs onbekend",
+    "Gewicht": "0,88464"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma vader Vmbo-b/k, mbo 1 en mbo 2",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vmbo b/k, mbo 1 en mbo 2",
+    "Gewicht": "-0,21630"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma vader Vmbo-g/t, mbo 3 en mbo 4",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vmbo g/t, mbo 2 en mbo 3",
+    "Gewicht": "0,67119"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma vader Vwo en Wo-bachelor en Wo-master",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vwo, Wo bachelor en Wo master",
+    "Gewicht": "-12,08995"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma moeder Geen onderwijsdata bekend",
+    "Categorie": "Werk & opleiding",
+    "Name": "Onderwijs onbekend",
+    "Gewicht": "0,03655"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma moeder Vmbo-b/k, mbo 1 en mbo 2",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vmbo b/k, mbo 1 en mbo 2",
+    "Gewicht": "0,15936"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma moeder Vmbo-g/t, mbo 3 en mbo 4",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vmbo g/t, mbo 2 en mbo 3",
+    "Gewicht": "0,03334"
+  },
+  {
+    "Vraag": "Hoogst behaalde diploma moeder Vwo en Wo-bachelor en Wo-master",
+    "Categorie": "Werk & opleiding",
+    "Name": "Vwo, Wo bachelor en Wo master",
+    "Gewicht": "-13,03162"
+  }
+]
