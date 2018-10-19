@@ -1,7 +1,7 @@
 ## Inhoud
-1. Proces
-2. Concept en design
-3. Installatie
+1. Installatie
+2. Proces
+3. Concept en design
 4. Resources
 
 ## Proces
