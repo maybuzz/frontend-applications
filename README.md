@@ -43,6 +43,16 @@ Ik merk dat ik het nog lastig vind om te beginnen, omdat ik niet goed weet waar 
 
 Ook heb ik verschillende tutorials gekeken om Vue.js wat beter te begrijpen. De tutorials bestonden vooral uit kleine dingen; kleine componentjes maken en deze implementeren etc. Ik vind het als 'beginner' nog lastig om deze kleine stukjes in een groter project toe te passen.
 
+Mijn bevindingen uit de analyse;
+1. `De Arij` noemt het een risico taxatie, maar dit is geen ideale naam voor deze applicatie volgens Arjan. Bedenk een andere naam
+2. Moet speelser en visueler
+3. De hulpverlener is eindverantwoordelijk voor de gevolgen voor het kind. Fouten kunnen grote gevolgen hebben voor zowel medewerker als gezin. De applicatie moet dus zo `**safe**` mogelijk om fouten te voorkomen
+4. Snelheid is van belang, zo `**snel**` mogelijk
+5. Samen met ouders en/of jongeren, zo `**samen**` mogelijk
+6. Zo `**supportive**` mogelijk
+
+De huidige applicatie is [x] safe en [x] snel maar niet [ ] samen of [ ] supportive
+
 #### Vrijdag
   - Design in Sketch gemaakt
   - Formulier in html gemaakt
@@ -65,6 +75,7 @@ Vandaag heb ik (opnieuw) verschillende tutorials gekeken. Verschil met de andere
 Ook ben ik vandaag aangeschoven bij 'de Vue tafel'. Deze bestaat uit Mitch, Nathan en Daniel 2. In principe hebben we allemaal ongeveer even veel moeite met alles. Gelukkig zijn onze mede studenten zoals Tim, Dennis en Daniel 1 bereid om ons op weg te helpen. Toch helpt het wel om je bij 'lotgenoten' aan te sluiten.
 
 #### Dinsdag
+
 
 ## Project setup en installation
 ```
