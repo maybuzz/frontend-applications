@@ -4,6 +4,8 @@
 3. Concept en design
 4. Resources
 
+Zie `documentatie.md` voor meer toelichting over dit project.
+
 ## Installatie
 ```
 git clone https://github.com/maybuzz/frontend-applications
