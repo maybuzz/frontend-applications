@@ -125,5 +125,6 @@ Vandaag gaan we het project afronden. Ik ben benieuwd naar iedereens creaties en
 ## Resources
 https://vuejs.org/v2/guide/    
 https://www.udemy.com/mobile/ipad/    
-https://www.youtube.com/watch?v=78tNYZUS-ps   
+https://www.youtube.com/watch?v=78tNYZUS-ps  
+http://174.138.1.153/kindveiligthuis/   
 VUE.js documentatie en tutorials
