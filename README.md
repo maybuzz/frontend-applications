@@ -1,5 +1,8 @@
-# frontend-applications
-## Project setup
+# Frontend-applications
+## 
+
+## Project setup en installation
+---
 ```
 npm install
 ```
@@ -23,3 +26,6 @@ npm run test
 ```
 npm run lint
 ```
+
+## Resources
+---
