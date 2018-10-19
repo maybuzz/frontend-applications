@@ -17,7 +17,7 @@ Wat ik wilde doen maar niet aan toe ben gekomen:
 1. Database koppelen waardoor hulpverleners een mobiel dossier aan kunnen maken. In dit dossier kunnen zij ingevulde gegevens terug zien, aanpassen en updaten. Het leek mij een goed idee om voor elk gesprek dat zij met een client voeren een nieuwe analyse te doen. Zij zouden dan in kunnen loggen en naar het client dossier kunnen gaan en hier een nieuw gesprek aan toe kunnen voegen. Ideaal gezien zouden de aanpassingen of veranderingen in de analyses naar voren komen. Zo kunnen hulpverleners het proces in kaart kunnen brengen.
 2. Ik wilde hulpverleners de mogelijkheid geven om notities toe te voegen. Sommige opmerkingen kan je als hulpverlener niet verwerken in de gegeven vragen, maar willen zij alsnog opslaan. Door documenten up te loaden naar de database of simpelweg opmerkingen toe te voegen aan de vragen kunnen zij deze dingen kwijt in de applicatie.
 
-![
+Zie Archief.png, Algemeen.png en Projectaanmaken.png voor afbeeldingen voor design.
 
 ### Week 1
 #### Maandag
