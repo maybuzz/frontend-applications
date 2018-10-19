@@ -92,6 +92,6 @@ npm run lint
 ```
 
 ## Resources
-https://vuejs.org/v2/guide/
-https://www.udemy.com/mobile/ipad/
-https://www.youtube.com/watch?v=78tNYZUS-ps
+https://vuejs.org/v2/guide/    
+https://www.udemy.com/mobile/ipad/    
+https://www.youtube.com/watch?v=78tNYZUS-ps    
