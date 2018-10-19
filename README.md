@@ -1,4 +1,6 @@
 # Frontend-applications
+## Inhoud
+
 ## Proces
 In de eerste week hebben we `Arjan de Jager` ontmoet. Arjan werkt bij `Garage 2020`, een organisatie van de gemeente Amsterdam die samenwerkt met jeugdhulp. Arjan heeft een applicatie gebouwd die medewerkers van de jeugdhulp moet ondersteunen in het maken van risico analyses. In de applicatie heeft Arjan zich vooral gefocust op uit huis plaatsing van jongeren. Medewerkers van de jeugdhulp hebben verschillende hulpmiddelen bestaande uit vragenlijsten en lijsten met risico factoren waarmee zij een risico taxatie kunnen doen en in kunnen schatten wat de problemen binnen een gezin zijn. Arjan wil met zijn applicatie deze vragenlijsten en factoren digitaal maken en een tool ontwikkelen waarmee werknemers een berekening kunnen maken en een risico indicatie kunnen krijgen. Hier kunnen wij hem goed bij helpen. Bonus is dat Arjan 3 concepten uitkiest om mee te nemen naar de `Dutch Design Week`.
 
@@ -58,7 +60,11 @@ In het weekend heb ik minder kunnen doen dan ik van plan was. Wel heb ik opnieuw
   - Maximiliaan is een held
   - DesignCourse heeft mn leven gered met het opzetten van mijn vue project.
   
-Vandaag
+Vandaag heb ik (opnieuw) verschillende tutorials gekeken. Verschil met de andere tutorials is wel dat deze me echt verder hebben geholpen. Vooral omdat zij vanaf het begin beginnen. Van installatie, tot importeren tot routing. Hier kan ik eindelijk op doorwerken voor mijn eigen project. 
+
+Ook ben ik vandaag aangeschoven bij 'de Vue tafel'. Deze bestaat uit Mitch, Nathan en Daniel 2. In principe hebben we allemaal ongeveer even veel moeite met alles. Gelukkig zijn onze mede studenten zoals Tim, Dennis en Daniel 1 bereid om ons op weg te helpen. Toch helpt het wel om je bij 'lotgenoten' aan te sluiten.
+
+#### Dinsdag
 
 ## Project setup en installation
 ```
@@ -87,3 +93,5 @@ npm run lint
 
 ## Resources
 https://vuejs.org/v2/guide/
+https://www.udemy.com/mobile/ipad/
+https://www.youtube.com/watch?v=78tNYZUS-ps
